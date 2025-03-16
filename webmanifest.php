@@ -1,5 +1,5 @@
 {
-    "name": "INSIDE CLUB",
+    "name": "RAZE CLUB",
     "icons": [
         {
             "src": "\/data\/assets\/logo\/192.png",
